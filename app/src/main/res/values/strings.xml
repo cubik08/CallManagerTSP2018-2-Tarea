@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Call Manager</string>
+    <string name="txt_Correo">ejemplo@ejemplo.com</string>
+    <string name="txt_Contrasena">Ingresa contraseña</string>
+    <string name="txt_btn_Aceptar">Aceptar</string>
+    <string name="txt_IngCorreo">Correo:</string>
+    <string name="txt_IngContrasena">Contraseña:</string>
+    <string name="txt_acerca_de">Acerca de...</string>
+    <string name="dialogo_acerca_de">Lo has logrado</string>
+    <string-array name="numeros">
+        <item>tel:5572136682</item>
+        <item>tel:5544776144</item>
+        <item>tel:5586901459</item>
+        <item>tel:5534256711</item>
+    </string-array>
+</resources>
